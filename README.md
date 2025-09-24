@@ -23,7 +23,4 @@ Al finalizar el sorteo, la lista de nombres se vacía y se muestra solo el resul
   - Se muestra el resultado en pantalla.  
   - La lista de nombres se borra automáticamente.  
 
----
-
-##  Estructura del proyecto
 
